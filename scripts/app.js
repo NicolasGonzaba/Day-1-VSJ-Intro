@@ -35,3 +35,5 @@ console.log(myArray)
 let myElement=document.getElementById("myElement");
 console.log(myElement);
 myElement.textContent="I Changed the text from JS!";
+
+//This is a comment in the JS on Nico's branch
